@@ -1,0 +1,4 @@
+pinecone==2.2.4
+chainlit==1.0.101
+langchain==0.1.1
+csv==1.0
