@@ -18,8 +18,8 @@ It is recommended to have Python 3.10.5 installed. However, lower versions have 
 
 1. Fork this repository and create a codespace in GitHub OR Clone it locally.
    ```
-   git clone CHANGE
-   cd CHANGE
+   git clone https://github.com/enriqueramosg/ChatWithYourPDF
+   cd ChatWithYourPDF
    ```
 
 2. Install Ollama by following the instructions at https://ollama.ai/. Then, install the model to use by running the following command in the terminal:
